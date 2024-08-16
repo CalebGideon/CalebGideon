@@ -6,5 +6,5 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
 </picture>
-  <b style="#24F4F7FF">Come and take a look...</b>
+  <b style="color:#24F4F7FF">Come and take a look...</b>
 </h1>

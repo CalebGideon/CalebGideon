@@ -11,21 +11,24 @@
 <hr style="border: 5px solid white;">
 
 <div align="center"> 
-  <b>I enjoy low-level programming. My projects usually consist of experiments in:</b>
+  <b>I enjoy low-level programming. My projects usually consist of experiments into:</b>
+</div>
+<div align="left">
   <ul>
     <li>🧠 Memory management</li>
     <li>🖩 CPU design</li>
     <li>🎮 Video Game Development</li>
   </ul>
-  <hr style="border: 5px solid white;">
-  <b>Take a look...</b>
 </div>
 <div align="center>
+  <hr style="border: 5px solid white;">
+  <b>Take a look...</b>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
 <div align="left"> 
   <a href="gideon232ict@gmail.com>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/cgideon/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />

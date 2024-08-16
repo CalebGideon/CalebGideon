@@ -10,9 +10,12 @@
 </h1>
 <hr style="border: 5px solid white;">
 
-<div align="center"> 
+<div align="left"> 
   <b>I enjoy low-level programming. My projects usually consist of experiments into:</b>
 </div>
+
+<hr style="border: 5px solid white;">
+
 <div align="left">
   <ul>
     <li>🧠 Memory management</li>
@@ -20,14 +23,14 @@
     <li>🎮 Video Game Development</li>
   </ul>
 </div>
+
 <div align="center>
   <hr style="border: 5px solid white;">
   <b>Take a look...</b>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div align="left"> 
-  <a href="gideon232ict@gmail.com>
+  <a href="mailto:gideon232ict@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/cgideon/">

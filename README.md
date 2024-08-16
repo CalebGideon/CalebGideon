@@ -6,12 +6,12 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="32" height="32">
 </picture>
-  <b style="color: #24F4F7FF;">Wasn't expecting you...</b>
+  <b style="color: #24F4F7FF;">You're here... so why not take a look around?</b>
 </h1>
 <br>
 
 <div align="left"> 
-  <b>I enjoy low-level programming. My projects usually consist of experiments into:</b>
+  <b>I primarily a backend devloper specialising in C++/C#/Python. I Have frontend knowledge in HTML/CSS, API and Database management for games. Currently working on developing a functional 16-bit CPU from scratch, and learning more about the fundamentals of computing. My current public projects delve into the following topics:</b>
 </div>
 
 <br>
@@ -28,10 +28,15 @@
 
 <div align="center>
   <hr style="border: 5px solid white;">
-  <b>Take a look...</b>
+  <b>🤖 PL's & Relevant Skills 🤖</b>
 </div>
 
 <br>
+
+<div>
+  <img src="https://skillicons.dev/icons?i="cpp,cs,blender,docker,html,java,php">
+  <img src="https://skillicons.dev/icons?i="ps,py,unity,vscode,eclipse">
+</div>
 
 <div align="left"> 
   <a href="mailto:gideon232ict@gmail.com">

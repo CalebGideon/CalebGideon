@@ -14,7 +14,7 @@
   <b>I enjoy low-level programming. My projects usually consist of experiments into:</b>
 </div>
 
-<hr style="border: 5px solid white;">
+<br>
 
 <div align="left">
   <ul>
@@ -24,10 +24,14 @@
   </ul>
 </div>
 
+<br>
+
 <div align="center>
   <hr style="border: 5px solid white;">
   <b>Take a look...</b>
 </div>
+
+<br>
 
 <div align="left"> 
   <a href="mailto:gideon232ict@gmail.com">

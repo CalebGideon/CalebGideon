@@ -21,7 +21,7 @@
 
 <div align="center>
   <hr style="border: 5px solid white;">
-  <b>🤖 PL's & Relevant Skills 🤖</b>
+  <h1><b>🤖 PL's & Relevant Skills 🤖</b></h1>
 </div>
 
 <br>
@@ -31,6 +31,8 @@
   <br>
   <img src="https://skillicons.dev/icons?i=ps,py,unity,vscode,eclipse">
 </div>
+
+<br>
 
 <div align="left"> 
   <a href="mailto:gideon232ict@gmail.com">

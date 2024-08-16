@@ -8,7 +8,7 @@
 </picture>
   <b style="color: #24F4F7FF;">Wasn't expecting you...</b>
 </h1>
-<hr style="border: 5px solid white;">
+<br>
 
 <div align="left"> 
   <b>I enjoy low-level programming. My projects usually consist of experiments into:</b>

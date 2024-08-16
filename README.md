@@ -3,8 +3,34 @@
 </h1>
 <h1 align="center>
 <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="32" height="32">
 </picture>
-  <b style="color:#24F4F7FF">Come and take a look...</b>
+  <b style="color: #24F4F7FF;">Wasn't expecting you...</b>
 </h1>
+<hr style="border: 5px solid white;">
+
+<div align="center"> 
+  <b>I enjoy low-level programming. My projects usually consist of experiments in:</b>
+  <ul>
+    <li>🧠 Memory management</li>
+    <li>🖩 CPU design</li>
+    <li>🎮 Video Game Development</li>
+  </ul>
+  <hr style="border: 5px solid white;">
+  <b>Take a look...</b>
+</div>
+<div align="center>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<div align="left"> 
+  <a href="gideon232ict@gmail.com>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/cgideon/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+
+

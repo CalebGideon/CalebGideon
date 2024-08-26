@@ -12,7 +12,7 @@
 <div align="left">
   <ul>
     <li>🧠 Memory management</li>
-    <li>🖩 CPU design</li>
+    <li>🖩  CPU design</li>
     <li>🎮 Video Game Development</li>
   </ul>
 </div>

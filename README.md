@@ -4,7 +4,7 @@
 <br>
 
 <div align="left"> 
-  <b>I'm primarily a backend devloper specialising in C++/C#/Python. I Have frontend knowledge in HTML/CSS, API and Database management for games. Currently working on developing a functional 16-bit CPU from scratch, and learning more about the fundamentals of computing. My current public projects delve into the following topics:</b>
+  <b>I'm primarily a backend developer specialising in C++/C#/Python. I Have frontend knowledge in HTML/CSS, API and Database management for games. Currently working on developing a functional 16-bit CPU from scratch, and learning more about the fundamentals of computing. My current public projects delve into the following topics:</b>
 </div>
 
 <br>
